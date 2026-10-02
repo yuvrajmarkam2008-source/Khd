@@ -1,0 +1,7 @@
+{
+  "name": "Kumhud AI Study Assistant",
+  "description": "Smart educational AI study assistant providing clear, step-by-step solutions for students in Maths, Science, English, and Computer Science in English, Hindi, and Hinglish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
